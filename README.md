@@ -1,6 +1,4 @@
- 👋 Hi, I’m @Greenyet
- 
- 👀 I’m interested in programming on Java
+ 👋 Hi
 
 <!---
 Greenyet/Greenyet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
